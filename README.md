@@ -2,6 +2,9 @@
 
 Simple searching youtube via youtube api with reactJs.
 
+![alt text](https://drive.google.com/file/d/0B5SzgPQruYH6S0ZfU2pNNURfYmM/view?usp=sharing)
+
+
 ## Getting Started
 
 There are two methods for getting started with this repo.
