@@ -14,6 +14,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd react-youtube-search
 > npm install
 > npm start
+> open web browser, by default localhost:3000
 ```
 
 #### Not Familiar with Git?
