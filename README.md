@@ -2,7 +2,7 @@
 
 Simple searching youtube via youtube api with reactJs.
 
-![alt text](https://drive.google.com/file/d/0B5SzgPQruYH6S0ZfU2pNNURfYmM/view?usp=sharing)
+![](https://s3-ap-southeast-1.amazonaws.com/dataassets/ezgif.com-gif-maker.gif)
 
 
 ## Getting Started
